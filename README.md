@@ -1,6 +1,6 @@
 # Little Lemon Booking Website
 
-## PDescription
+## Description
 
 This project was built as part of Meta’s Front-End Development course on Coursera, serving as the capstone for the Front-End Development track.
 
